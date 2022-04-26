@@ -90,6 +90,9 @@ color: #ED9205;
 
 main {
     margin-top: 50px;
+}
+
+section.main {
     display: flex;
     flex-flow: column wrap;
     justify-content: space-between;
