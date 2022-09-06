@@ -3,7 +3,7 @@
 Paulo Victor Gomes da França
 RM:93873
 
-APIS IMPLEMENTADAS:
+APIS IMPLEMENTADAS NA PÁGINA DE SÃO PAULO:
 
 - Google Maps
 
