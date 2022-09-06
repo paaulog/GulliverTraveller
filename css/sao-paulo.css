@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+body {
+    margin: auto;
+    background-color: rgba(245, 222, 179, 0.658);
+    font-family: Arial, sans-serif;
+}
+
+.carousel {
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.carousel-inner>.item>img {
+    width: 100%;
+}
+
+.card-header {
+    padding: 0;
+}
+
+[aria-expanded="true"] {
+    background-color: rgba(255, 145, 0, 0.527) !important;
+    width: 100%;
+    text-align: left;
+    text-decoration: none;
+}
+
+.btn-link {
+    padding: .7rem;
+    color: white;
+    background-color: #2196F3;
+    width: 100%;
+    text-align: left;
+    text-decoration: none !important;
+    font-family: 'Inter', sans-serif;
+    font-style: italic;
+    letter-spacing: 1.5px;
+}
+
+.btn-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.arrow {
+    width: 16px
+}
+
+.maps-section {
+    width: 50%;
+    margin: auto;
+    display: block ;
+}
+
+.temperatura{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    text-shadow: black 1px 3px 5px;
+    background-color: #007bff;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px rgba(0 , 0 , 0 , 0.08);
+    margin-bottom: 20px;
+}
+
+.temperatura img {
+    width: 10%;
+}
